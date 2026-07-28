@@ -119,3 +119,11 @@ pip install -r requirements.txt
 - **Director Field Overlay**: Shows the input image overlaid with yellow lines representing the local orientation of the texture. If lines are aligned together, the texture has high nematic order.
 - **Angle of the Nematic Director ($\sin(2\theta)$)**: Displays a spatial heat map of the orientation. The $\sin(2\theta)$ projection ensures that angles wrapping around (e.g. $-90^\circ$ and $+90^\circ$) represent the same value, matching the nematic symmetry.
 - **Angle Fluctuation Histograms**: A narrower peak centered at $0^\circ$ signifies highly aligned texture. A wider, flatter histogram signifies high angular disorder (large variance).
+
+
+
+## GNU General Public License v3.0 (GNU GPLv3)
+Copyright (c) 2026
+This program is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
